@@ -21,6 +21,6 @@ splitTypes.forEach((char, i) => {
 })
 
 ScrollSmoother.create({
-  smooth: 0.5,
+  smooth: 0.25,
   effects: true,
 });
